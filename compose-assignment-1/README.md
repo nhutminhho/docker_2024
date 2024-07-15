@@ -2,7 +2,6 @@
 
 > Goal: Create a compose config for a local Drupal CMS website
 
-[Docker Mastery Lecture](https://www.udemy.com/course/docker-mastery/learn/lecture/6775804)
 
 - This empty directory is where you should create a docker-compose.yml
 - Use the `drupal:9` image along with the `postgres:14` image
